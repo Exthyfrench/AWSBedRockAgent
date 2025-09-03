@@ -212,6 +212,3 @@ This is a template project. To extend functionality:
 4. Create message export features
 5. Add conversation history
 
-## License
-
-This project is provided as-is for demonstration and development purposes.
